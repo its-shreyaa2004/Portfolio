@@ -6,13 +6,7 @@ import { getFirestore } from 'firebase/firestore/lite';
 
 const firebaseConfig = {
 
-  apiKey: "AIzaSyBt_S1j6Khh4gwLnjDUilhRW8vnx2ojXBc",
-  authDomain: "portfolio-a2b06.firebaseapp.com",
-  projectId: "portfolio-a2b06",
-  storageBucket: "portfolio-a2b06.firebasestorage.app",
-  messagingSenderId: "327583380090",
-  appId: "1:327583380090:web:720f1a1cff9aecb32ac1c3",
-  measurementId: "G-9R204K3D4L"
+ 
 };
 
 
